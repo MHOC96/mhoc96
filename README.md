@@ -44,6 +44,14 @@
 ### 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHOC96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHOC96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHOC96&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MHOC96&theme=tokyonight" alt="Top Languages by Repo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MHOC96&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/MHOC96" alt="GitHub Contribution Graph" />
 </p>
