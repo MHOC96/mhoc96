@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### 🤖 AI Engineering & Intelligent Systems
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-blueviolet?style=for-the-badge)
@@ -34,13 +35,6 @@
 
 ---
 
-### 🚀 Focus Areas
-- ⚡ **AI Tooling & Integration:** Building RAG pipelines and tool connectors using the **Model Context Protocol (MCP)**.
-- 🏗️ **Backend Infrastructure:** Designing robust REST APIs using **Spring Boot, Django, and FastAPI**.
-- ☁️ **Cloud & Automation:** Deploying frontend/API services on **Vercel**, containerizing applications with **Docker**, and configuring automated **CI/CD build pipelines**.
-
----
-
 ### 📊 GitHub Activity Overview
 
 <p align="center">
@@ -54,4 +48,15 @@
 
 <p align="center">
   <img src="https://ghchart.rshah.org/MHOC96" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oshadha-canchana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:oshadhacanchana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://web.facebook.com/MHO.Canchana"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.hackerrank.com/profile/oshadhacanchana"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </p>
