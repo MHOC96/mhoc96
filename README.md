@@ -50,17 +50,13 @@
   <img width="70%" src="https://streak-stats.demolab.com/?user=MHOC96&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Current and longest contribution streak" />
 </p>
 
-#### 📈 Contribution Timeline
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Systems+Engineer;Scalable+Microservices+%7C+RAG+%7C+MCP;Always+learning+%26+building" alt="Animated title" />
-</p>
+#### 🐍 Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub contributions in the last year with snake animation" src="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
