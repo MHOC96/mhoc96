@@ -19,6 +19,7 @@
 #### 🤖 AI Engineering & Intelligent Systems
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-blueviolet?style=for-the-badge)
 ![MCP Standard](https://img.shields.io/badge/MCP-Model_Context_Protocol-0052CC?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### 📈 Machine Learning & Data Science
@@ -54,9 +55,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="GitHub contributions in the last year with snake animation" src="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/main/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/main/assets/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub contributions in the last year with snake animation" src="https://raw.githubusercontent.com/MHOC96/mhoc96/main/assets/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
