@@ -44,22 +44,6 @@
 
 ### 📊 GitHub Activity Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MHOC96&label=Profile+Views&color=6f42c1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MHOC96?label=Followers&style=for-the-badge&color=1F6FEB&logo=github" alt="Followers" />
-</p>
-
-<p align="center">
-  <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHOC96&theme=tokyonight" alt="Profile summary: commits, stars, pull requests and issues" />
-</p>
-
-#### 🧬 Language Breakdown
-
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MHOC96&theme=tokyonight" alt="Languages by repository count" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MHOC96&theme=tokyonight" alt="Languages by commit volume" />
-</p>
-
 #### 🔥 Contribution Streak
 
 <p align="center">
@@ -70,12 +54,6 @@
 
 <p align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHOC96&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" alt="Contribution activity over the past year" />
-</p>
-
-#### ⏰ When I Code
-
-<p align="center">
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MHOC96&theme=tokyonight&utcOffset=5.5" alt="Commit activity by hour of day" />
 </p>
 
 ---
