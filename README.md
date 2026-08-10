@@ -53,7 +53,15 @@
 #### 📈 Contribution Timeline
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHOC96&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" alt="Contribution activity over the past year" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Systems+Engineer;Scalable+Microservices+%7C+RAG+%7C+MCP;Always+learning+%26+building" alt="Animated title" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MHOC96/mhoc96/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
