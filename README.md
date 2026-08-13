@@ -47,12 +47,42 @@
 
 ### 📊 GitHub Activity Overview
 
+> Public GitHub metrics, ranked language usage, and contribution activity — organized for quick scanning.
+
+#### A. Profile Snapshot
+
+| Metric | Detail |
+| :--- | :--- |
+| **Public Repositories** | 8 |
+| **Followers** | 1 |
+| **Member Since** | Aug 2024 |
+| **Primary Focus** | Backend, AI systems, and full-stack apps |
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MHOC96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MHOC96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHOC96&theme=tokyonight" alt="GitHub profile summary" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MHOC96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats overview" />
 </p>
 
-#### 🐍 Contributions
+#### B. Language Rankings
+
+Ranked by total code volume across public repositories:
+
+| Rank | Language | Share | Primary Use |
+| :---: | :--- | :---: | :--- |
+| **A** | Python | 32.3% | Backend APIs, ML pipelines, AI tooling |
+| **B** | TypeScript | 30.5% | Full-stack and frontend applications |
+| **C** | CSS | 28.5% | UI styling and responsive layouts |
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MHOC96&theme=tokyonight" alt="Languages ranked by commit volume" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MHOC96&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages chart" />
+</p>
+
+#### C. Contribution Activity
+
+<p align="center">
+  <img width="72%" src="https://streak-stats.demolab.com/?user=MHOC96&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak stats" />
+</p>
 
 <p align="center">
   <picture>
