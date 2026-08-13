@@ -44,7 +44,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-#### C. Contribution Activity
+
+### 📊 GitHub Activity Overview
+
+| Rank | Area | Detail |
+| :---: | :--- | :--- |
+| **A** | Public Repositories | 8 |
+| **B** | Followers | 1 |
+| **C** | Member Since | Aug 2024 |
 
 <p align="center">
   <img width="72%" src="https://streak-stats.demolab.com/?user=MHOC96&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak stats" />
