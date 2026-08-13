@@ -45,18 +45,6 @@
 
 ---
 
-### 📊 GitHub Activity Overview
-
-| Rank | Area | Detail |
-| :---: | :--- | :--- |
-| **A** | Public Repositories | 8 |
-| **B** | Followers | 1 |
-| **C** | Member Since | Aug 2024 |
-
-<p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com/?user=MHOC96&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak stats" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHOC96/mhoc96/main/assets/github-contribution-grid-snake-dark.svg">
