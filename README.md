@@ -20,6 +20,8 @@
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-blueviolet?style=for-the-badge)
 ![MCP Standard](https://img.shields.io/badge/MCP-Model_Context_Protocol-0052CC?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### 📈 Machine Learning & Data Science
