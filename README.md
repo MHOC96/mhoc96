@@ -47,10 +47,9 @@
 
 ### 📊 GitHub Activity Overview
 
-#### 🔥 Contribution Streak
-
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=MHOC96&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Current and longest contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MHOC96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHOC96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 #### 🐍 Contributions
