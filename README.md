@@ -1,6 +1,8 @@
 # Hi there, I'm MHOC96 👋
 
 > **Backend & AI Systems Engineer** specializing in scalable microservices, containerized deployments, and context-aware LLM architectures (RAG & MCP).
+>
+> 🌐 **Portfolio:** [oshadhacanchana.com](https://www.oshadhacanchana.com/)
 
 ---
 
@@ -58,6 +60,7 @@
 ### 📫 Contact
 
 <p align="center">
+  <a href="https://www.oshadhacanchana.com/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/oshadha-canchana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:oshadhacanchana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://web.facebook.com/MHO.Canchana"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
